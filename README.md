@@ -1,6 +1,12 @@
 # jumping bird
+A simple interactive game.
 
-##requirements
+## controls
+
+use MOUSE_LEFT key to jump and try avoiding the obstacles
+
+
+## requirements
 
 SDL2 library -v 2.0.1
 
